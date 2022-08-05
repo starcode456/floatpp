@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">float</string>
+
+    <string name="facebook_app_id">335739460701181</string>
+    <string name="fb_login_protocol_scheme">fb335739460701181</string>
+
+</resources>
